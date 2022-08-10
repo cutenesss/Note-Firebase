@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "34422323993",
+    "project_id": "mynotes-cutenesss",
+    "storage_bucket": "mynotes-cutenesss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34422323993:android:4cb9949590b590daa52388",
+        "android_client_info": {
+          "package_name": "com.example.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34422323993-7ic1mjg67q4fsqlp7saimeucsibrqthd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt8xZZZ5IFNLj8xFX52i6Ab8mboXFCg8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34422323993-7ic1mjg67q4fsqlp7saimeucsibrqthd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "34422323993-mui8ajc0adgl061sa86v3k4qnq4hh8vu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mynotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
